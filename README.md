@@ -3,7 +3,7 @@
 An image Editor created using P5.js | *Submitted for a Linear Algebra course*
 
 ## About The Project
-Product was developed for an examination and demonstration project of the linear algebra behind image editing. 
+Product was developed for an examination and demonstration project of the linear algebra behind image processing and image manipulating. 
 - The linear algebra concepts explored for this project include: *Vector addition and subtraction, matrix-vector multiplication, scalar-vector multiplication, and transpose of matrix*. 
 - To find more about the project, and how the concepts represent and are used to implement each editing feature, refer to the [Project Statement](https://docs.google.com/document/d/1LZuh2W37hWYe0ouJwvX6ogkFQNVA_gGZU8O1H4d9nu0/edit?usp=sharing). 
 
